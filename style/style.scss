@@ -458,7 +458,7 @@ body {
   }
 
   .section {
-    margin-bottom: 75px;
+    // margin-bottom: 75px;
   }
 
   .section-title {
@@ -468,13 +468,13 @@ body {
   }
 
   // 培訓經驗區塊列印優化
-  .training-item,
-  .experience-item,
-  .education-item {
-    margin-bottom: 15px;
-    padding-left: 15px;
-    page-break-inside: avoid;
-  }
+  // .training-item,
+  // .experience-item,
+  // .education-item {
+  //   margin-bottom: 15px;
+  //   padding-left: 15px;
+  //   page-break-inside: avoid;
+  // }
 
   .item-description {
     font-size: 10pt;
@@ -493,7 +493,7 @@ body {
   .highlight-box {
     padding: 12px;
     margin-top: 10px;
-    page-break-inside: avoid;
+    // page-break-inside: avoid;
 
     h4 {
       margin-bottom: 8px;
@@ -503,7 +503,7 @@ body {
   .project-item {
     padding: 12px;
     margin-bottom: 10px;
-    page-break-inside: avoid;
+    // page-break-inside: avoid;
   }
 
   .project-title {

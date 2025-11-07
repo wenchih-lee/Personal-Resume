@@ -368,20 +368,10 @@ body {
     padding: 20px 30px;
     margin-top: 0;
   }
-  .section {
-    margin-bottom: 75px;
-  }
   .section-title {
     font-size: 1.3em;
     margin-bottom: 10px;
     padding-bottom: 5px;
-  }
-  .training-item,
-  .experience-item,
-  .education-item {
-    margin-bottom: 15px;
-    padding-left: 15px;
-    page-break-inside: avoid;
   }
   .item-description {
     font-size: 10pt;
@@ -397,7 +387,6 @@ body {
   .highlight-box {
     padding: 12px;
     margin-top: 10px;
-    page-break-inside: avoid;
   }
   .highlight-box h4 {
     margin-bottom: 8px;
@@ -405,7 +394,6 @@ body {
   .project-item {
     padding: 12px;
     margin-bottom: 10px;
-    page-break-inside: avoid;
   }
   .project-title {
     margin-bottom: 6px;
