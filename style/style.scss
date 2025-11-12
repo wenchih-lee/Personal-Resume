@@ -119,6 +119,10 @@ body {
   display: flex;
   align-items: center;
   gap: 10px;
+
+  training {
+    margin-top: 25px;
+  }
 }
 
 // ==========================================
@@ -463,6 +467,7 @@ body {
 
   .section-title {
     font-size: 1.3em;
+    margin-top: 20px;
     margin-bottom: 10px;
     padding-bottom: 5px;
   }

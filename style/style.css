@@ -96,6 +96,9 @@ body {
   align-items: center;
   gap: 10px;
 }
+.section-title training {
+  margin-top: 25px;
+}
 
 .profile-text {
   color: #555;
@@ -370,6 +373,7 @@ body {
   }
   .section-title {
     font-size: 1.3em;
+    margin-top: 20px;
     margin-bottom: 10px;
     padding-bottom: 5px;
   }
@@ -382,7 +386,7 @@ body {
   }
   .item-description ul li {
     margin-bottom: 6px;
-    line-height: 1.5;
+    line-height: 1.2;
   }
   .highlight-box {
     padding: 12px;
